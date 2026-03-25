@@ -1,4 +1,4 @@
-project : = 
+project : = 1 
 Fake News Detector using Python & Streamlit
 
 Steps to Run:
