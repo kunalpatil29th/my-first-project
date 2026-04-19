@@ -3,7 +3,7 @@ import pickle
 from streamlit_lottie import st_lottie
 import requests
 
-# Function to load Lottie animation from URL
+# Function to load Lottie
 def load_lottie(url):
     r = requests.get(url)
     if r.status_code != 200:
