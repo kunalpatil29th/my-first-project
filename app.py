@@ -1,7 +1,3 @@
-import streamlit as st
-import pickle
-from streamlit_lottie import st_lottie
-import requests
 
 
 def load_lottie(url):
