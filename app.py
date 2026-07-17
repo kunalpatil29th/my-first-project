@@ -1,7 +1,7 @@
  r = requests.get(url)
     if r.status_code != 200:
         return None
-    return r.json()
+    return r.json()  
 
 # Load Lottie animation
 lottie_animation = load_lottie("https://assets6.lottiefiles.com/packages/lf20_touohxv0.json")
