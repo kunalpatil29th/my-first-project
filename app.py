@@ -2,7 +2,8 @@
 
   
     if r.status_code != 200:  
-        return None
+        return
+     None
     return r.json()  
 
 # Load Lottie animation
