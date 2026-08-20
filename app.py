@@ -1,11 +1,4 @@
  r = requests.get(url) 
-
-
-
-
-
- 
-
     if r.status_c
 ode != 200:  
         return
