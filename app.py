@@ -6,6 +6,7 @@ tus_c
 ode != 200:  
         return
      None
+KUNAL
     return r.json()  
 
 # Load Lottie animation
