@@ -2,6 +2,7 @@ hwij
 r = requests.get(url) 
     if r.sta
 tus_c
+jfjf
 
 ode != 200:  
         return
